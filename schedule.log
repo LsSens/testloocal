@@ -1,0 +1,74 @@
+
+  2024-07-04 20:27:04 Running [App\Jobs\SendProductInfoJob] .......... 6s FAIL
+  2024-07-04 20:27:11 Running [App\Jobs\SendProductInfoJob] .... 746.96ms FAIL
+  2024-07-04 20:27:13 Running [App\Jobs\SendProductInfoJob] .... 745.12ms FAIL
+  2024-07-04 20:27:15 Running [App\Jobs\SendProductInfoJob] .... 758.26ms FAIL
+  2024-07-04 20:27:17 Running [App\Jobs\SendProductInfoJob] .......... 3s FAIL
+  2024-07-04 20:27:21 Running [App\Jobs\SendProductInfoJob] .... 742.71ms FAIL
+  2024-07-04 20:27:23 Running [App\Jobs\SendProductInfoJob] .... 752.17ms FAIL
+  2024-07-04 20:27:25 Running [App\Jobs\SendProductInfoJob] .... 763.03ms FAIL
+  2024-07-04 20:27:27 Running [App\Jobs\SendProductInfoJob] .......... 3s FAIL
+  2024-07-04 20:27:31 Running [App\Jobs\SendProductInfoJob] .... 745.73ms FAIL
+  2024-07-04 20:27:33 Running [App\Jobs\SendProductInfoJob] .... 743.34ms FAIL
+  2024-07-04 20:27:35 Running [App\Jobs\SendProductInfoJob] .... 751.84ms FAIL
+  2024-07-04 20:27:37 Running [App\Jobs\SendProductInfoJob] .......... 3s FAIL
+  2024-07-04 20:27:41 Running [App\Jobs\SendProductInfoJob] .... 743.63ms FAIL
+  2024-07-04 20:27:43 Running [App\Jobs\SendProductInfoJob] .... 743.52ms FAIL
+  2024-07-04 20:27:45 Running [App\Jobs\SendProductInfoJob] .... 749.32ms FAIL
+  2024-07-04 20:27:47 Running [App\Jobs\SendProductInfoJob] .......... 3s FAIL
+  2024-07-04 20:27:51 Running [App\Jobs\SendProductInfoJob] .... 754.34ms FAIL
+  2024-07-04 20:27:54 Running [App\Jobs\SendProductInfoJob] .... 746.46ms FAIL
+  2024-07-04 20:27:56 Running [App\Jobs\SendProductInfoJob] .... 743.38ms FAIL
+  2024-07-04 20:27:58 Running [App\Jobs\SendProductInfoJob] .......... 3s FAIL
+
+
+   INFO  No scheduled commands are ready to run.  
+
+
+   INFO  No scheduled commands are ready to run.  
+
+
+   INFO  No scheduled commands are ready to run.  
+
+
+   INFO  No scheduled commands are ready to run.  
+
+
+   INFO  No scheduled commands are ready to run.  
+
+
+   INFO  No scheduled commands are ready to run.  
+
+
+   INFO  No scheduled commands are ready to run.  
+
+
+   INFO  No scheduled commands are ready to run.  
+
+
+   INFO  No scheduled commands are ready to run.  
+
+
+   INFO  No scheduled commands are ready to run.  
+
+
+   INFO  No scheduled commands are ready to run.  
+
+
+   INFO  No scheduled commands are ready to run.  
+
+
+   INFO  No scheduled commands are ready to run.  
+
+
+   INFO  No scheduled commands are ready to run.  
+
+
+   INFO  No scheduled commands are ready to run.  
+
+
+   INFO  No scheduled commands are ready to run.  
+
+
+   INFO  No scheduled commands are ready to run.  
+
