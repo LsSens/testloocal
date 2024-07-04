@@ -2,6 +2,7 @@ Projeto Laravel com Docker
 Primeiros Comandos para Instalação
 Para configurar e iniciar o projeto, execute os seguintes comandos:
 
+
 docker-compose up -d --build
 composer install
 php artisan key:generate // gerar key
