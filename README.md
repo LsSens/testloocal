@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# testloocal
+# Teste Loocal
 =======
 ### **Projeto Laravel com Docker**
 **Primeiros Comandos para Instalação**
