@@ -44,11 +44,12 @@ class LogicController extends Controller
         });
     
         $evenList = array_values($evenNumbers);
-    
+        $evenCount = count($evenList);
         $sum = array_sum($data);
         sort($data);
     
         return response()->json([
+            'QUANTIDADE PARES' => $evenCount,
             'PARES' => $evenList,
             'SOMA' => $sum,
             'NUMEROS_ORDENADOS' => $data
