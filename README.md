@@ -100,5 +100,3 @@ Atualiza os dados de um produto específico identificado pelo seu ID.
 **Excluir Produto**
 `DELETE /api/products/{id}`
 Remove um produto específico do sistema com base no seu ID.
-
->>>>>>> master
