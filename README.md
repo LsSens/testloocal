@@ -11,7 +11,7 @@ php artisan key:generate // gerar key
 php artisan migrate // inicialização banco de dados
 php artisan db:seed // gerar seed do database
 php artisan jwt:secret // gerar o token do jwt
-php artisan queue:work // rodar o envio de email
+php artisan queue:work // processar filas de jobs
 ```
 
 ### **Copiar e configurar .env**
