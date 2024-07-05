@@ -12,6 +12,7 @@ php artisan jwt:secret // gerar o token do jwt
 php artisan queue:work // rodar o envio de email
 ```
 
+###**Copiar e configurar .env**
 
 **Rotas da API**
 
