@@ -10,7 +10,8 @@ composer install
 php artisan key:generate // gerar key
 docker-compose exec app bash // acessar container app
     php artisan migrate // inicialização banco de dados
-    php artisan queue:work // processar filas de jobs
+    crontab -e // configurar cron
+    * * * * * cd /var/www && /usr/local/bin/php artisan schedule:run >> /dev/null 2>&1 // configurar cron
 php artisan jwt:secret // gerar o token do jwt
 ```
 
