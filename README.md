@@ -11,7 +11,7 @@ php artisan key:generate // gerar key
 docker-compose exec app bash // acessar container app
     php artisan migrate // inicialização banco de dados
     crontab -e // configurar cron
-    * * * * * cd /var/www && /usr/local/bin/php artisan schedule:run >> /dev/null 2>&1 // configurar cron
+    * * * * * cd /var/www && /usr/local/bin/php artisan schedule:run >> schedule.log 2>&1 // configurar cron
 php artisan jwt:secret // gerar o token do jwt
 ```
 
